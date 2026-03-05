@@ -6,4 +6,4 @@
 
 
 ## EX03 Screenshot
-![screenshot](https://github.com/kyle0125/114-2_APPDEV_w02_ex01/blob/main/img/EX03.png)
+![screenshot](https://github.com/kyle0125/114-2_APPDEV_w02_ex01/blob/main/img/EX03.png) 
